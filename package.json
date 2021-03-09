@@ -1,0 +1,24 @@
+{
+  "name": "ugg",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "solid-js": "^0.24.13",
+    "solid-scripts": "0.0.54"
+  },
+  "dependencies": {
+    "@rturnq/solid-router": "^0.2.4"
+  },
+  "scripts": {
+    "start": "solid-scripts start",
+    "build": "solid-scripts build",
+    "test": "solid-scripts test"
+  },
+  "browserslist": [
+    "Chrome 74",
+    "Firefox 63",
+    "Safari 11",
+    "Edge 17",
+    "Node 10"
+  ]
+}
